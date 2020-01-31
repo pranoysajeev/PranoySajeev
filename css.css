@@ -1,0 +1,18 @@
+h1
+{
+   text-align: center;
+   text-transform: uppercase;
+   text-decoration: underline overline red;
+   font-size: xxx-large
+    ;
+}
+p 
+{
+  text-align: center;
+  border: "5";
+}
+img
+{
+  border: 5px solid black;
+  outline: 5px solid red;
+}
